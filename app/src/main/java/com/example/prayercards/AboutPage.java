@@ -9,7 +9,7 @@ import android.widget.Button;
 /*
     This activity displays about the prayer cards
 */
--
+
 public class AboutPage extends AppCompatActivity {
     private Button btn_back;
 
